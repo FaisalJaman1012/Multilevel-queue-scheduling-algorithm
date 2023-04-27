@@ -1,5 +1,4 @@
-# Multilevel-Queue-Scheduling-Algorithm (OS_CA_02-Simulation Based)
-
+#  OS_ASSIGNMENT CA_02 CSE_316-(Simulation Based)
 Write a program for multilevel queue scheduling algorithm. There must be three queues
 generated. There must be specific range of priority associated with every queue. Now
 prompt the user to enter number of processes along with their priority and burst time. Each
